@@ -1,4 +1,4 @@
-# Digital auscultation for ICU outcome prediction: signal localization and adversarial vulnerability
+# Digital auscultation for intensive care unit mortality prediction: prognostic signal, acoustic basis, and model robustness
 
 Reproducible analysis code for the Rapid Communication of the same title.
 
